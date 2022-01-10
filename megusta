@@ -1,0 +1,8 @@
+
+import webbrowser
+
+x = 1
+
+while x < 50:
+    webbrowser.open('http://youtube.com/pokimane')
+    x += 1
